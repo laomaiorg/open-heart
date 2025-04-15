@@ -36,7 +36,7 @@ export default {
 			if (path) id = decodeURIComponent(path);
 		}
 
-		const ORIGIN = 'http://localhost:8787';
+		const ORIGIN = 'https://mrm.im';
 
 		const CORS_HEADERS = {
 			'Access-Control-Allow-Headers': '*',
